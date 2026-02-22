@@ -1,13 +1,17 @@
 {
-  "name": "ayanokoji",
+  "name": "ayanokoji-bot",
   "version": "1.0.0",
+  "description": "Bot privé par le Chef du Dark Zen",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "latest",
+    "@adiwajshing/baileys": "npm:@whiskeysockets/baileys",
     "pino": "^8.0.0",
-    "express": "latest"
+    "express": "latest",
+    "axios": "latest",
+    "ytdl-core": "latest"
   }
 }
