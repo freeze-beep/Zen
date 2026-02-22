@@ -5,8 +5,10 @@ const config = {
     clan: "Dark Zen",
     status: "Fils du Grand Monarque des Ombres",
     prefix: ".",
-    imageMenu: "https://files.catbox.moe/9f9p3p.jpg", // L'image avec les yeux jaunes
-    videoOwner: "https://files.catbox.moe/vpt6n2.mp4" // Ta vidéo édit
+    // Utilisation de la photo aux yeux jaunes que tu as envoyée
+    imageMenu: "https://files.catbox.moe/9f9p3p.jpg", 
+    videoOwner: "https://files.catbox.moe/vpt6n2.mp4" 
 };
 
 module.exports = config;
+
