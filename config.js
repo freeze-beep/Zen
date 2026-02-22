@@ -1,11 +1,12 @@
 const config = {
     ownerNumber: "243986860268@s.whatsapp.net",
-    pairingNumber: "243986860268",
+    ownerName: "Chef du Dark Zen",
     botName: "AYANOKOJI-BOT",
-    ownerName: "Kiyotaka Ayanokoji",
+    clan: "Dark Zen",
+    status: "Fils du Grand Monarque des Ombres",
     prefix: ".",
-    imageMenu: "https://files.catbox.moe/9f9p3p.jpg",
-    mode: "private" // Le bot ne répondra qu'à toi
+    imageMenu: "https://files.catbox.moe/9f9p3p.jpg", // L'image avec les yeux jaunes
+    videoOwner: "https://files.catbox.moe/vpt6n2.mp4" // Ta vidéo édit
 };
 
 module.exports = config;
